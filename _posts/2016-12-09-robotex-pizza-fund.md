@@ -22,3 +22,6 @@ Pizza fund contributors:
 * Lauri Võsandi the rest
 
 Thank you guys, you're the best! :)
+
+If you want also to contribute please make transfer to Lauri Võsandi (EE937700771000679333)
+as this is out of the scope of NGO/MTÜ.

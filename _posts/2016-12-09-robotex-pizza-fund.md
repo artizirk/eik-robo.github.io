@@ -12,10 +12,11 @@ simply bought stuff from Selver.
 
 Pizza fund contributors:
 
+* Valdur Kaldvee 83€
 * Arti Zirk 60€
-* Valdur Kaldvee 50€
-* Allan Vein 40€
 * Mikk Mangus 32€
+* Allan Vein 20€
+* Madis Toom 20€
 * Tauri Metsoja 20€
 * Erki Naumanis 20€
 * Silver Kuusik 10€

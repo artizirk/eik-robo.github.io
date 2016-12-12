@@ -14,6 +14,8 @@ Pizza fund contributors:
 
 * Valdur Kaldvee 83€
 * Arti Zirk 60€
+* Katrin Loodus 35€
+* Anonymous contributor 35€
 * Mikk Mangus 32€
 * Allan Vein 20€
 * Madis Toom 20€

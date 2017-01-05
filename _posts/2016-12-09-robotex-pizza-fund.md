@@ -17,6 +17,7 @@ Pizza fund contributors:
 * Katrin Loodus 35€
 * Anonymous contributor 35€
 * Mikk Mangus 32€
+* Anonymous contributor 20€
 * Mario Hallaste 20€
 * Allan Vein 20€
 * Madis Toom 20€

@@ -408,6 +408,10 @@ layout: page
   </figure>
   <figure>
     <img src="../assets/img/avatar/stormtrooper.jpg" alt="pic"/>
+    <figcaption>Madis Mägi</figcaption>
+  </figure>
+  <figure>
+    <img src="../assets/img/avatar/stormtrooper.jpg" alt="pic"/>
     <figcaption>Reigo Männiste</figcaption>
   </figure>
   <figure>

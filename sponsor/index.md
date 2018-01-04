@@ -6,7 +6,7 @@ tags:
 layout: page
 ---
 
-If you're interested in becoming a sponsor contact us at <a href="mailto:robot@itcollege.ee">robot@itcollege.ee</a>
+If you're interested in becoming a sponsor contact us at <a href="mailto:meelis.antoi@itcollege.ee">meelis.antoi@itcollege.ee</a>
 
 For sponsors we provide visibility at annual [Robotex](http://www.robotex.ee/) robotics competition and
 in the Robotics Club rooms among the bright students of [Estonian IT College](http://www.itcollege.ee/).

@@ -52,7 +52,7 @@ defaults:
       # Slogan for the page.
       slogan: Bricked
       # Contact e-mail for pages and posts.
-      email: robot@itcollege.ee
+      email: meelis.antoi@itcollege.ee
       # Page/post content license (can contain HTML).
       content_license: Creative Commons
       # Preferred feed standard. Possible values are: atom, rss or null.
